@@ -1,0 +1,5 @@
+https://www.semanticscholar.org/paper/The-Eighth-Visual-Object-Tracking-VOT2020-Challenge-Kristan-Leonardis/12508951ba96b7d4c0906ed95542287d3ebdfd95
+https://www.semanticscholar.org/paper/Benign-and-malignant-breast-tumors-classification-Rouhi-Jafari/c6db34ade32b3681a92068b22a354903b2953d52
+https://www.semanticscholar.org/paper/Event-Detection-and-Summarization-in-Soccer-Videos-Tavassolipour-Karimian/ac2e54cec3aa2d1e67288d00c7fce7b7b17f9a73
+https://www.semanticscholar.org/paper/An-efficient-PCA-based-color-transfer-method-Abadpour-Kasaei/53fc0415e0d00f9691994a49b8232a1cc2dfad5f
+https://www.semanticscholar.org/paper/Deep-Learning-for-Visual-Tracking%3A-A-Comprehensive-Marvasti-Zadeh-Cheng/1fbb4201af091aef55360f113ba35814063923e4

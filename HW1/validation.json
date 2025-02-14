@@ -1,0 +1,74 @@
+{
+    "Translation Model Based on Deep Learning": [
+        "0ca95a34c0a59132e7f0925b189de884e51a93a6",
+        "1167a9431e3743e16ab7e38bf60bdf63a278f7e9",
+        "864e033c002c5ec48d4c273c53ce995682fc3e21",
+        "3060a4828f4fd0a89e934db5b74bfdef95141d80",
+        "9cc8609f904c50b1be408abede7ab7f5cdbc9744",
+        "5c6199859eb8b4ebd4188c6587f6ad8e6448a983",
+        "f29df408f1407c60b0f85dd595a883de7c66e763",
+        "4dfbc372c5e127abe7989e9c4ef75daac7370cd2",
+        "b3ea79473e7438ae3d551f79a84207f8bd0e830d",
+        "20f77d34ab1aec7d0a6e613a740aff7ec7fbf55a"
+    ],
+    "deep neural network ": [
+        "642d0f49b7826adcf986616f4af77e736229990f",
+        "0f37b083cfd3d113f5c26dbb3620d246b9a40292",
+        "f6e0856b4a9199fa968ac00da612a9407b5cb85c",
+        "081651b38ff7533550a3adfc1c00da333a8fe86c",
+        "2e2b189f668cf2c06ebc44dc9b166648256cf457",
+        "daf74c34f7da0695b154f645c8b78a7397a98f16",
+        "7efb4f8ff9aa6f5e9691e9392b539298ef46ca04",
+        "6bd36e9fd0ef20a3074e1430a6cc601e6d407fc3",
+        "367f2c63a6f6a10b3b64b8729d601e69337ee3cc",
+        "791b65c65f8ae7e16c1ee9203cdc3ee59ffeb99f"
+    ],
+    "Dynamics Simulation and Density Functional Calculation": [
+        "55d9c8ca435c4acdde29f9c96dfc23848e72ca3f",
+        "acdf02ca0bee200748f7007c8b0f78a8e79b68e6",
+        "31f53bb704c274df483aee602b290ae3e0202df4",
+        "a4a047f23b29ac3e88f3f8b53e8f4ad8170ad38f",
+        "ce0b37ac017d9e905027ea7de4d162f7f0613740",
+        "7bfd24b2e5029b53a2289a5ff52cf9b2ebb187c5",
+        "4a06c596ac9e23b1029f17d564af939d422b8b25",
+        "bd6a2675d7fb9a5d02b78bc9c8379b0ab763323d",
+        "1def5593ffe3d368d6bfd6e54706fdde206021db",
+        "3f503da9263298b2831e702dc4daad355da1f5e8"
+    ],
+    "Applications of multivariate data analysis for food": [
+        "2b4888e6ad68ec270cad76008745f9f9580e30a8",
+        "2a2660e17102409d2b31abb28649e0fdde477001",
+        "b3266cbc937ee738d0aed832888f81ff64761b72",
+        "0f4cdaf07aaa72a1897a81009515cc02d4cb51d5",
+        "24029683600238e055e309378ca33d6f2c1adefe",
+        "c8800e83fd2b5a2ae638bfddf616cfb0f48b31fa",
+        "1d9e5364ec4cc7ab2cefcf6039384391b15f95d4",
+        "82b2f8cd8b50f91cc4a03d6524352b4187b6f72b",
+        "080e4b7ddd0935f72aafd47e6ab8da4ee36fe464",
+        "6b188d7075208f50c5efbe8d8e977e6eb2f3a760"
+    ],
+    "Object Detection": [
+        "962dc29fdc3fbdc5930a10aba114050b82fe5a3e",
+        "72564a69bf339ff1d16a639c86a764db2321caab",
+        "b9b4e05faa194e5022edd9eb9dd07e3d675c2b36",
+        "2a6f7f0d659c5f7dcd665064b71e7b751592c80e",
+        "b724c3f7ff395235b62537203ddeb710f0eb27bb",
+        "f8e79ac0ea341056ef20f2616628b3e964764cfd",
+        "424561d8585ff8ebce7d5d07de8dbf7aae5e7270",
+        "2f4df08d9072fc2ac181b7fced6a245315ce05c8",
+        "e2751a898867ce6687e08a5cc7bdb562e999b841",
+        "04957e40d47ca89d38653e97f728883c0ad26e5d"
+    ],
+    "Super-resolution microscopy and fluorescent probes": [
+        "2972aba5dbafaa4a0a2f9c1e7a014266d2ee2662",
+        "66f4c8da6875f4d7cf3a382ef7b84193cce3feb9",
+        "2963184199e13408004294d37e401bd908f212e7",
+        "5287251c71fddee0c8e9ba48a98b6a2212bfed66",
+        "6672b19462a953ec3cba927c1a8a3d378d50432a",
+        "1166830c929dcebae2b7002cb25b70145ccf88a3",
+        "58ec265b2c2d98f75722ed51cf4555aaf2e6ee29",
+        "19ad54916caa9a8d79f57552d26dba5fb8debab0",
+        "edf0b7ea5e74ea1c61cd48acbbef7013817bc6a2",
+        "061c776f883f1ce8a8e0eaaeadd49fb0dcf87d7a"
+    ]
+}

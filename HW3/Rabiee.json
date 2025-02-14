@@ -1,0 +1,1196 @@
+[
+  {
+    "url": "https://www.semanticscholar.org/paper/Novel-dataset-for-fine-grained-abnormal-behavior-in-Rabiee-Haddadnia/c626a9d75dfd73e26cf30793d5ef71527cd9fa95",
+    "ID": "c626a9d75dfd73e26cf30793d5ef71527cd9fa95",
+    "Title": "Novel dataset for fine-grained abnormal behavior understanding in crowd",
+    "Abstract": "Despite the huge research on crowd on behavior understanding in visual surveillance community, lack of publicly available realistic datasets for evaluating crowd behavioral interaction led not to have a fair common test bed for researchers to compare the strength of their methods in the real scenarios. This work presents a novel crowd dataset contains around 45,000 video clips which annotated by one of the five different fine-grained abnormal behavior categories. We also evaluated two state-of… ",
+    "Publication Year": "1 August 2016",
+    "Authors": [
+      "Hamid R. Rabiee",
+      "Javad Haddadnia",
+      "Hossein Mousavi",
+      "Maziyar Kalantarzadeh",
+      "Moin Nabi",
+      "Vittorio Murino"
+    ],
+    "Related Topics": null,
+    "Citation Count": "46",
+    "Reference Count": "26",
+    "References": [
+      "e4b3a7f0873eb3df1eed342eda50577a34354f62",
+      "9d3f0d47449c7db37d1bae3b70db2928610a8db7",
+      "fd52349a019d928cd9b09c2f6a8a689f174bbbf2",
+      "655b1f83ef218ee6a030b5541d2865bc6599e6d9",
+      "c3113eaad326a955ba96c11b7b65d0c065fb2054",
+      "27839232387db332bdc9024d014a6d1bc47c35eb",
+      "5194cbd51f9769ab25260446b4fa17204752e799",
+      "0f86767732f76f478d5845f2e59f99ba106e9265",
+      "e65ec773059770c45da16bb9ce638d24870b1adf",
+      "84af83ff6412a756df58b6436f0d2e3c049e1f12"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/A-Hybrid-Deep-Learning-Architecture-for-Mobile-Osia-Shamsabadi/6f0685d61328f0f90972fe822258d574b74e9c7a",
+    "ID": "6f0685d61328f0f90972fe822258d574b74e9c7a",
+    "Title": "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics",
+    "Abstract": "Internet-of-Things (IoT) devices and applications are being deployed in our homes and workplaces. These devices often rely on continuous data collection to feed machine learning models. However, this approach introduces several privacy and efficiency challenges, as the service operator can perform unwanted inferences on the available data. Recently, advances in edge processing have paved the way for more efficient, and private, data processing at the source for simple tasks and lighter models… ",
+    "Publication Year": "8 March 2017",
+    "Authors": [
+      "Seyed Ali Osia",
+      "Ali Shahin Shamsabadi",
+      "Sina Sajadmanesh",
+      "Ali Taheri",
+      "Kleomenis Katevas",
+      "Hamid R. Rabiee",
+      "Nicholas D. Lane",
+      "Hamed Haddadi"
+    ],
+    "Related Topics": null,
+    "Citation Count": "182",
+    "Reference Count": "68",
+    "References": [
+      "65c8a794830f9a11aa0b9ab682f3b6256be67185",
+      "6c20cd584e7258056840eb88437d69731000bb0f",
+      "60951974d24dd83e288117b0cd217af6a5d34178",
+      "326bb49d3ae9e1e1551028200916192e50004105",
+      "8a5d0579590465494c9aba58a857af43b190b6a6",
+      "2b7f9117eb6608a58be4c078ca3d69c0e5ccb875",
+      "187a78ebfe654e9c1d3e8d070c8845a49c1d1a42",
+      "5a7a7dfea3674d4e0474f7fdd596951da44babe4",
+      "7fcb90f68529cbfab49f471b54719ded7528d0ef",
+      "405006da005398279bdf7c3423d47aa0951c5391"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Multiresolution-Knowledge-Distillation-for-Anomaly-Salehi-Sadjadi/6885c45614f78f9d2e7cc8ef11b3c38b34e67f7d",
+    "ID": "6885c45614f78f9d2e7cc8ef11b3c38b34e67f7d",
+    "Title": "Multiresolution Knowledge Distillation for Anomaly Detection",
+    "Abstract": "Unsupervised representation learning has proved to be a critical component of anomaly detection/localization in images. The challenges to learn such a representation are two-fold. Firstly, the sample size is not often large enough to learn a rich generalizable representation through conventional techniques. Secondly, while only normal samples are available at training, the learned features should be discriminative of normal and anomalous samples. Here, we propose to use the \"distillation\" of… ",
+    "Publication Year": "22 November 2020",
+    "Authors": [
+      "Mohammadreza Salehi",
+      "Niousha Sadjadi",
+      "Soroosh Baselizadeh",
+      "Mohammad Hossein Rohban",
+      "Hamid R. Rabiee"
+    ],
+    "Related Topics": null,
+    "Citation Count": "136",
+    "Reference Count": "58",
+    "References": [
+      "4c1abd8969fc1c360f50373f6552bcfb3cc408b7",
+      "5db790198b9acf4e5efe350acdd814238fcacaa7",
+      "0535625be630c6a67f4c244ebf3aa61ad088fc70",
+      "3aa681914a7da79f7d7293f51a058eefe61c8bb7",
+      "41747cbdbed84762dfbfc305254c97021279dc6e",
+      "dbc7401e3e75c40d3c720e7db3c906d48bd742d7",
+      "8bedee52bf14e326d7fe2b1f1c1d0cb256aa53f6",
+      "2b75ba7f75170b73d913c515cc0deefef6c88f5f",
+      "8381157eae4fbf8908d0312a9642f8e69e944449",
+      "d9d7ab13ce305ccee309c989a2341d72b1252070"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Crowd-Analysis-and-Its-Applications-Sjarif-Shamsuddin/e65ec773059770c45da16bb9ce638d24870b1adf",
+    "ID": "e65ec773059770c45da16bb9ce638d24870b1adf",
+    "Title": "Crowd Analysis and Its Applications",
+    "Abstract": "Crowd is a unique group of individual or something involves community or society. The phenomena of the crowd are very familiar in a variety of research discipline such as sociology, civil and physic. Nowadays, it becomes the most active-oriented research and trendy topic in computer vision. Traditionally, three processing steps involve in crowd analysis, and these include pre-processing, object detection and event/behavior recognition. Meanwhile, the common process for analysis in video… ",
+    "Publication Year": "27 June 2011",
+    "Authors": [
+      "Nilam Nur Amir Sjarif",
+      "Siti Mariyam Hj. Shamsuddin",
+      "Siti Zaiton Mohd Hashim",
+      "Siti Sophiayati Yuhaniz"
+    ],
+    "Related Topics": null,
+    "Citation Count": "13",
+    "Reference Count": "26",
+    "References": [
+      "7acf5502f9fe06bb455d00820f5dc0f3b097b791",
+      "e298919adf82aed62b2375c96005397797f966e8",
+      "daa84f3160e0a71d9820f9961382ffbc5b811dbd",
+      "92f07e826f44ed5b4d0fa243c9b7f30a158a841a",
+      "52f63f6d444c1d192e02a7b407aad1ebe908c388",
+      "c115ac8cba0d479f57e317da06c5a694b935a804",
+      "54cf4e85cea0f6f1ec8b3fa318cb2c488a5a7f79",
+      "0c3bcf947000ed82d3da6d8a7d5c29baf26e629f",
+      "c3113eaad326a955ba96c11b7b65d0c065fb2054",
+      "1e5e70f77a9957bc6fdfa9748dc4739657933dc4"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Abnormal-crowd-behavior-detection-using-social-Mehran-Oyama/c3113eaad326a955ba96c11b7b65d0c065fb2054",
+    "ID": "c3113eaad326a955ba96c11b7b65d0c065fb2054",
+    "Title": "Abnormal crowd behavior detection using social force model",
+    "Abstract": "In this paper we introduce a novel method to detect and localize abnormal behaviors in crowd videos using Social Force model. For this purpose, a grid of particles is placed over the image and it is advected with the space-time average of optical flow. By treating the moving particles as individuals, their interaction forces are estimated using social force model. The interaction force is then mapped into the image plane to obtain Force Flow for every pixel in every frame. Randomly selected… ",
+    "Publication Year": "20 June 2009",
+    "Authors": [
+      "Ramin Mehran",
+      "Alexis Oyama",
+      "Mubarak Shah"
+    ],
+    "Related Topics": null,
+    "Citation Count": "1,618",
+    "Reference Count": "31",
+    "References": [
+      "54cf4e85cea0f6f1ec8b3fa318cb2c488a5a7f79",
+      "279196c4d96053a6083ceae2bb3600059564f9a1",
+      "db2e05ccd1d6d106ee8816bf65c655f250f7206c",
+      "c4c5b3995f14fcb85affde0164addbbd4d962914",
+      "f6461ce6d9c12248227845da006e98c0bd4b33b0",
+      "cf898df551678088b304e0beb32725556f043fcf",
+      "50c794f5c24b4f423bfadd52629e8d94ce672625",
+      "f129124da1d10b1a4b33e2dc7e01d6a4349886e7",
+      "7dae2ba25d492b5d287984088ff1fbf9e3d4e87c",
+      "b03420aa079b8d4c5332f369b21dc997723e23db"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Deep-Private-Feature-Extraction-Ossia-Taheri/e1dcd7fd049ae2ae3b93295d8ea360cafc00f9da",
+    "ID": "e1dcd7fd049ae2ae3b93295d8ea360cafc00f9da",
+    "Title": "Deep Private-Feature Extraction",
+    "Abstract": null,
+    "Publication Year": "9 February 2018",
+    "Authors": [
+      "Seyed Ali Ossia",
+      "Ali Taheri",
+      "Ali Shahin Shamsabadi",
+      "Kleomenis Katevas",
+      "Hamed Haddadi",
+      "Hamid R. Rabiee"
+    ],
+    "Related Topics": null,
+    "Citation Count": "65",
+    "Reference Count": "60",
+    "References": [
+      "e3ddf8496ba04324d67b6a181d42bc51b6c6beaf",
+      "44a97f4eaaefaf5338f8aed2913d5debb2459f7e",
+      "326bb49d3ae9e1e1551028200916192e50004105",
+      "e6050e19c82ac215194cc311016094b71f57b17d",
+      "65c8a794830f9a11aa0b9ab682f3b6256be67185",
+      "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+      "2b7f9117eb6608a58be4c078ca3d69c0e5ccb875",
+      "53969301953b5e3d908a057f95d29eef2f11970f",
+      "3625202d710db29ee117f7502d86901f50f92e1c",
+      "c519be94d6a99ec80f60d7369cc2587c485c8304"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Spatial-Aware-Dictionary-Learning-for-Hyperspectral-Soltani-Farani-Rabiee/5ca94050fcf3382b50ec44629c0dda80c8843558",
+    "ID": "5ca94050fcf3382b50ec44629c0dda80c8843558",
+    "Title": "Spatial-Aware Dictionary Learning for Hyperspectral Image Classification",
+    "Abstract": "This paper presents a structured dictionary-based model for hyperspectral data that incorporates both spectral and contextual characteristics of spectral samples. The idea is to partition the pixels of a hyperspectral image into a number of spatial neighborhoods called contextual groups and to model the pixels inside a group as members of a common subspace. That is, each pixel is represented using a linear combination of a few dictionary elements learned from the data, but since pixels inside a… ",
+    "Publication Year": "5 August 2013",
+    "Authors": [
+      "Ali Soltani-Farani",
+      "Hamid R. Rabiee",
+      "Seyyed Abbas Hosseini"
+    ],
+    "Related Topics": null,
+    "Citation Count": "125",
+    "Reference Count": "67",
+    "References": [
+      "be7dff80571ebca2e922ae2626a44033320139a2",
+      "15f7662fadf686beae8ce704ee9b48262ac62237",
+      "5ef1bc90ee5ca4e474972bf6f43eb0751e09093b",
+      "f5f963d7872625c75f43d422f3c4cf7d70d2de7d",
+      "f6e92c66ba553d6ae1d52e94f83278ede73c696f",
+      "2b07d0bfcbc64b8cefa2d5d7b84a3dd13b6d7b51",
+      "7c997a648976fb9df320c6ca332c9dc155820454",
+      "c5389f0d9751ce9cd39160320ef17ae968a79edf",
+      "41f426e2dc5b4944148014d9c86d20fdd21dc968",
+      "6434a32dfa090fd5e5ae3809958dd68bacb5839c"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Detecting-Abnormal-Behavioral-Patterns-in-Crowd-Mousavi-Galoogahi/27839232387db332bdc9024d014a6d1bc47c35eb",
+    "ID": "27839232387db332bdc9024d014a6d1bc47c35eb",
+    "Title": "Detecting Abnormal Behavioral Patterns in Crowd Scenarios",
+    "Abstract": "This Chapter presents a framework for the the task of abnormality detection in crowded scenes based on the analysis of trajectories, build up upon a novel video descriptor, called Histogram of Oriented Tracklets. Unlike standard approaches that employ low level motion features, e.g. optical flow, to form video descriptors, we propose to exploit mid-level features extracted from long-range motion trajectories called tracklets, which have been successfully applied for action modeling and video… ",
+    "Publication Year": "2016",
+    "Authors": [
+      "Hossein Mousavi",
+      "Hamed Kiani Galoogahi",
+      "Alessandro Perina",
+      "Vittorio Murino"
+    ],
+    "Related Topics": null,
+    "Citation Count": "22",
+    "Reference Count": "52",
+    "References": [
+      "655b1f83ef218ee6a030b5541d2865bc6599e6d9",
+      "c3113eaad326a955ba96c11b7b65d0c065fb2054",
+      "8984c1adee4e862f64732c3306a7ebda3745d756",
+      "5194cbd51f9769ab25260446b4fa17204752e799",
+      "84af83ff6412a756df58b6436f0d2e3c049e1f12",
+      "ce9edb785f28c81bd7c2864940ed001429178e1e",
+      "891b02aee809c5f2c14ee3722b045393cd3266d9",
+      "9d3f0d47449c7db37d1bae3b70db2928610a8db7",
+      "a605a375d0803794adee9eac225011d294dfbada",
+      "3afbb0e64fcb70496b44b30b76fac9456cc51e34"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Advanced-Media-Based-Smart-Big-Data-on-Intelligent-Psannis-Stergiou/405006da005398279bdf7c3423d47aa0951c5391",
+    "ID": "405006da005398279bdf7c3423d47aa0951c5391",
+    "Title": "Advanced Media-Based Smart Big Data on Intelligent Cloud Systems",
+    "Abstract": "Today's advanced media technology preaches an enthralling time that will enormously bear on daily life. Moreover, the rapid raise of wireless communications and networking will ultimately bring advanced media to our lives anytime, anywhere, and on any device. According to the National Institute of Standards and Technology (NIST), Cloud Computing (CC) is a scheme for enabling convenient, on-demand network access to a shared pool of configurable computing pores (for example networks, applications… ",
+    "Publication Year": "2019",
+    "Authors": [
+      "Kostas E. Psannis",
+      "Christos L. Stergiou",
+      "Brij Bhooshan Gupta"
+    ],
+    "Related Topics": null,
+    "Citation Count": "97",
+    "Reference Count": "70",
+    "References": [
+      "fdd709a6f33f7cfc46c7827ab69e786ba4a392e5",
+      "fb18e87bdfa27b3bc7a9d9337f02cd6b66d0c372",
+      "2a3ebc6d371a55a926fdd15e1ee1bdc32ec05f0e",
+      "eaabf1c38e6b4925a21eae1658971f2cc3ada14f",
+      "7dfd49a28b3eff74e29fd11aeecd1e9802c5c95a",
+      "44180d8de71036962383b4b074d475b767ddd95a",
+      "ef5ff2c100eff7adbf3335c82e0bd55b0f4f2890",
+      "6da3d71dc601fd9cd6b4e84bc947de5474c5873b",
+      "39c140bf1aaa2f3ea4f532aedff84c659e8dbcd7",
+      "c0ac47e65ecdd066e2021470d605574f73a2925b"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Analyzing-Tracklets-for-the-Detection-of-Abnormal-Mousavi-Mohammadi/655b1f83ef218ee6a030b5541d2865bc6599e6d9",
+    "ID": "655b1f83ef218ee6a030b5541d2865bc6599e6d9",
+    "Title": "Analyzing Tracklets for the Detection of Abnormal Crowd Behavior",
+    "Abstract": "This paper presents a novel video descriptor, referred to as Histogram of Oriented Tracklets, for recognizing abnormal situation in crowded scenes. Unlike standard approaches that use optical flow, which estimates motion vectors only from two successive frames, we built our descriptor over long-range motion trajectories which is called tracklets in the literature. Following the standard procedure, we divided video sequences in spatio-temporal cuboids within which we collected statistics on the… ",
+    "Publication Year": "1 January 2015",
+    "Authors": [
+      "Hossein Mousavi",
+      "Sadegh Mohammadi",
+      "Alessandro Perina",
+      "Ryad Chellali",
+      "Vittorio Murino"
+    ],
+    "Related Topics": null,
+    "Citation Count": "113",
+    "Reference Count": "27",
+    "References": [
+      "3afbb0e64fcb70496b44b30b76fac9456cc51e34",
+      "5194cbd51f9769ab25260446b4fa17204752e799",
+      "c3113eaad326a955ba96c11b7b65d0c065fb2054",
+      "9d3f0d47449c7db37d1bae3b70db2928610a8db7",
+      "aae932cf9c2434f52b03991fcab050a61a960d48",
+      "c266fc51bf6d769057de606a980988c50fc8b99e",
+      "ce9edb785f28c81bd7c2864940ed001429178e1e",
+      "eeaba0abdc26a89d8b9e3750db344c45d3460e7c",
+      "731a2844c5af6b072d3b404ecabbb488cdad9d46",
+      "5f6065ef5104f20f473dfc1a8504f3b6868eb584"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Crowd-motion-monitoring-using-tracklet-based-Mousavi-Nabi/fd52349a019d928cd9b09c2f6a8a689f174bbbf2",
+    "ID": "fd52349a019d928cd9b09c2f6a8a689f174bbbf2",
+    "Title": "Crowd motion monitoring using tracklet-based commotion measure",
+    "Abstract": "Abnormal detection in crowd is a challenging vision task due to the scarcity of real-world training examples and the lack of a clear definition of abnormality. To tackle these challenges, we propose a novel measure to capture the commotion of a crowd motion for the task of abnormality detection in crowd. The unsupervised nature of the proposed measure allows to detect abnormality adaptively (i.e. context dependent) with no training cost. The extensive experiments on three different levels (e.g… ",
+    "Publication Year": "1 September 2015",
+    "Authors": [
+      "Hossein Mousavi",
+      "Moin Nabi",
+      "Hamed Kiani Galoogahi",
+      "Alessandro Perina",
+      "Vittorio Murino"
+    ],
+    "Related Topics": null,
+    "Citation Count": "41",
+    "Reference Count": "21",
+    "References": [
+      "c7ae0a6974e2bf7c304e7c24331e109ebe5c65c8",
+      "655b1f83ef218ee6a030b5541d2865bc6599e6d9",
+      "9d3f0d47449c7db37d1bae3b70db2928610a8db7",
+      "84af83ff6412a756df58b6436f0d2e3c049e1f12",
+      "91d6f04df29112811121e4d5416776ac974709df",
+      "ddb3de7a51958a00bb4d8fabd029317c60cd5927",
+      "9c9aa8a9c83a6f2aeea58b49850fa01e513972a7",
+      "5194cbd51f9769ab25260446b4fa17204752e799",
+      "5d7e40ca3dcafea355f75f8b65df78ff5b654ba3",
+      "c266fc51bf6d769057de606a980988c50fc8b99e"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Data-driven-crowd-analysis-in-videos-Rodriguez-Sivic/e4b3a7f0873eb3df1eed342eda50577a34354f62",
+    "ID": "e4b3a7f0873eb3df1eed342eda50577a34354f62",
+    "Title": "Data-driven crowd analysis in videos",
+    "Abstract": "In this work we present a new crowd analysis algorithm powered by behavior priors that are learned on a large database of crowd videos gathered from the Internet. The algorithm works by first learning a set of crowd behavior priors off-line. During testing, crowd patches are matched to the database and behavior priors are transferred. We adhere to the insight that despite the fact that the entire space of possible crowd behaviors is infinite, the space of distinguishable crowd motion patterns… ",
+    "Publication Year": "1 November 2011",
+    "Authors": [
+      "Mikel D. Rodriguez",
+      "Josef Sivic",
+      "Ivan Laptev",
+      "Jean-Yves Audibert"
+    ],
+    "Related Topics": null,
+    "Citation Count": "226",
+    "Reference Count": "30",
+    "References": [
+      "db2e05ccd1d6d106ee8816bf65c655f250f7206c",
+      "1e5e70f77a9957bc6fdfa9748dc4739657933dc4",
+      "ed01c2706c1dd05de8664bee1e42a628a49480ad",
+      "26035398dbf666ea6f662604c2f8393c526ea950",
+      "9e147ee02392169f5716d0774f02b7df27f8ce1c",
+      "c4c5b3995f14fcb85affde0164addbbd4d962914",
+      "07d61392606dade00c08704e78f1c19b66d75261",
+      "7c6bb7a6d68c4c5fe6c33e9e2b5852ea7fcb17d9",
+      "6d0db7dc45147d5d5680a0918fc1a1e23b0124d2",
+      "17d65b2f276bc3b92f4a92567becc4fe41ffcb69"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Crowd-Density-Estimation-Using-Texture-Analysis-and-Wu-Liang/0c3bcf947000ed82d3da6d8a7d5c29baf26e629f",
+    "ID": "0c3bcf947000ed82d3da6d8a7d5c29baf26e629f",
+    "Title": "Crowd Density Estimation Using Texture Analysis and Learning",
+    "Abstract": "This paper presents an automatic method to detect abnormal crowd density by using texture analysis and learning, which is very important for the intelligent surveillance system in public places. By using the perspective projection model, a series of multi-resolution image cells are generated to make better density estimation in the crowded scene. The cell size is normalized to obtain a uniform representation of texture features. In order to diminish the instability of texture feature… ",
+    "Publication Year": "1 December 2006",
+    "Authors": [
+      "Xinyu Wu",
+      "Guoyuan Liang",
+      "Ka Keung Lee",
+      "Yangsheng Xu"
+    ],
+    "Related Topics": null,
+    "Citation Count": "163",
+    "Reference Count": "15",
+    "References": [
+      "008540fd3114ec8f3e55c45c90265061b51046ef",
+      "9f0e2ab6deacb7bc6984b2a42a6019c506dc04f8",
+      "717b799ade9cd435b0871b8d928f47fea6ead4ab",
+      "c115ac8cba0d479f57e317da06c5a694b935a804",
+      "5ed559e4943ccf0dae203c49d9125b58ad9d183c",
+      "d09deeb2eb6b1175d13817284d967189a83dbdde",
+      "2bb1ba70d48561ce8c3fbf59739fabc95e7b3d50",
+      "6bc436d2892be45fd16ba2620ca0a620bf9f52d7",
+      "7b65b06ecdd9df916d8f688e73ac41a2bb0fd63f",
+      "c021f5baa4787cc4c339846d9963d88a77648e34"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Federated-Learning%253A-Strategies-for-Improving-Konecn%25C3%25BD-McMahan/7fcb90f68529cbfab49f471b54719ded7528d0ef",
+    "ID": "7fcb90f68529cbfab49f471b54719ded7528d0ef",
+    "Title": "Federated Learning: Strategies for Improving Communication Efficiency",
+    "Abstract": null,
+    "Publication Year": "18 October 2016",
+    "Authors": [
+      "Jakub Konecny",
+      "H. B. McMahan",
+      "Felix X. Yu",
+      "Peter Richtarik",
+      "Ananda Theertha Suresh",
+      "Dave Bacon"
+    ],
+    "Related Topics": null,
+    "Citation Count": "3,035",
+    "Reference Count": "26",
+    "References": [
+      "561269a24f2f2a06409109723a8ab93a01696efc",
+      "8b419080cd37bdc30872b76f405ef6a93eae3304",
+      "d1dbf643447405984eeef098b1b320dee0b3b8a7",
+      "614ec0fe23fe21235126cc5c92ccf5a739a3ae32",
+      "3127190433230b3dc1abd0680bb58dced4bcd90e",
+      "25fb5a6abcd88ee52bdb3165b844c941e90eb9bf",
+      "51fb0ad908794c6127c51420c3924dfcc601b570",
+      "9d72c286f24a51e24ae9e80e957d1f999baee17b",
+      "edc2e4e6308d7dfce586cb8a4441c704f8f8d41b",
+      "d87ea22da500f9837da33c848b85d08abb0e0f00"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Anomaly-detection-in-crowded-scenes-Mahadevan-Li/9d3f0d47449c7db37d1bae3b70db2928610a8db7",
+    "ID": "9d3f0d47449c7db37d1bae3b70db2928610a8db7",
+    "Title": "Anomaly detection in crowded scenes",
+    "Abstract": "A novel framework for anomaly detection in crowded scenes is presented. Three properties are identified as important for the design of a localized video representation suitable for anomaly detection in such scenes: 1) joint modeling of appearance and dynamics of the scene, and the abilities to detect 2) temporal, and 3) spatial abnormalities. The model for normal crowd behavior is based on mixtures of dynamic textures and outliers under this model are labeled as anomalies. Temporal anomalies… ",
+    "Publication Year": "13 June 2010",
+    "Authors": [
+      "Vijay Mahadevan",
+      "Wei-Xin Li",
+      "Viral Bhalodia",
+      "Nuno Vasconcelos"
+    ],
+    "Related Topics": null,
+    "Citation Count": "1,289",
+    "Reference Count": "23",
+    "References": [
+      "2e269d2ee60db6d09a514c4748e3fdf9202917f9",
+      "08f99af9f5d6d351201ee4563e407bf37bc164fd",
+      "bec61be907d309d1797daab46236b66d41380c54",
+      "c3113eaad326a955ba96c11b7b65d0c065fb2054",
+      "38d4b5a464652a4afb4f043f141976f5c71c1e6b",
+      "eac7287d7ef69252358c1fbddedf123e11012370",
+      "8a916608e81eea5d7494e577c8563cae44a1b8c6",
+      "731a2844c5af6b072d3b404ecabbb488cdad9d46",
+      "9f1ac1a1f79e8a829d0acf3a3bf35ed1512d3e53",
+      "86078efdd0d1bbfaf4b7f821e973f607429751fc"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Tracking-in-unstructured-crowded-scenes-Rodriguez-Ali/1e5e70f77a9957bc6fdfa9748dc4739657933dc4",
+    "ID": "1e5e70f77a9957bc6fdfa9748dc4739657933dc4",
+    "Title": "Tracking in unstructured crowded scenes",
+    "Abstract": "This paper presents a target tracking framework for unstructured crowded scenes. Unstructured crowded scenes are defined as those scenes where the motion of a crowd appears to be random with different participants moving in different directions over time. This means each spatial location in such scenes supports more than one, or multi-modal, crowd behavior. The case of tracking in structured crowded scenes, where the crowd moves coherently in a common direction, and the direction of motion does… ",
+    "Publication Year": "1 September 2009",
+    "Authors": [
+      "Mikel D. Rodriguez",
+      "Saad Ali",
+      "Takeo Kanade"
+    ],
+    "Related Topics": null,
+    "Citation Count": "215",
+    "Reference Count": "21",
+    "References": [
+      "c4c5b3995f14fcb85affde0164addbbd4d962914",
+      "7c6bb7a6d68c4c5fe6c33e9e2b5852ea7fcb17d9",
+      "db2e05ccd1d6d106ee8816bf65c655f250f7206c",
+      "d8c8e1c7a1b0de2827ce00a2fb10a57eca629d98",
+      "e1d2d38c69e32b0f8105ceeb0f59a87c20976fac",
+      "5ccc8b513c81ce22d35d6d5f011b4347d4751c48",
+      "83a0ba5c761632d841c9f01c13ff8bc5a0910dbc",
+      "d057b2ef4962e48ed0b8b09381370173b2cf7f0e",
+      "b2bfc5baef8356a2ef7c67b49daec6abafa66eba",
+      "41875d4b32579d66662d5566c3e83d8f75e46ce8"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Abnormality-Detection-with-Improved-Histogram-of-Mousavi-Nabi/84af83ff6412a756df58b6436f0d2e3c049e1f12",
+    "ID": "84af83ff6412a756df58b6436f0d2e3c049e1f12",
+    "Title": "Abnormality Detection with Improved Histogram of Oriented Tracklets",
+    "Abstract": "Recently the histogram of oriented tracklets (HOT) was shown to be an efficient video representation for abnormality detection and achieved state-of-the-arts on the available datasets. Unlike standard video descriptors that mainly employ low level motion features, e.g. optical flow, the HOT descriptor simultaneously encodes magnitude and orientation of tracklets as a mid-level representation over crowd motions. However, extracting tracklets in HOT suffers from poor salient point initialization… ",
+    "Publication Year": "7 September 2015",
+    "Authors": [
+      "Hossein Mousavi",
+      "Moin Nabi",
+      "Hamed Kiani Galoogahi",
+      "Alessandro Perina",
+      "Vittorio Murino"
+    ],
+    "Related Topics": null,
+    "Citation Count": "43",
+    "Reference Count": "32",
+    "References": [
+      "655b1f83ef218ee6a030b5541d2865bc6599e6d9",
+      "a605a375d0803794adee9eac225011d294dfbada",
+      "fd52349a019d928cd9b09c2f6a8a689f174bbbf2",
+      "aae932cf9c2434f52b03991fcab050a61a960d48",
+      "731a2844c5af6b072d3b404ecabbb488cdad9d46",
+      "5194cbd51f9769ab25260446b4fa17204752e799",
+      "9d3f0d47449c7db37d1bae3b70db2928610a8db7",
+      "c9cd94cf620d6b20c5deca1ce0b88aefd256cf55",
+      "86078efdd0d1bbfaf4b7f821e973f607429751fc",
+      "ae37774ff871575b7799411bf87f42eb52634390"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Crowd-monitoring-using-image-processing-Davies-Yin/c115ac8cba0d479f57e317da06c5a694b935a804",
+    "ID": "c115ac8cba0d479f57e317da06c5a694b935a804",
+    "Title": "Crowd monitoring using image processing",
+    "Abstract": "The understanding of crowd behaviour in semi-confined spaces is an important part of the design of new pedestrian facilities, for major layout modifications to existing areas and for the daily management of sites-subject to crowd traffic. Conventional manual measurement techniques are not suitable for comprehensive data collection of patterns of site occupation and movement. Real-time monitoring is tedious and tiring, but safety-critical. This paper presents some image processing techniques… ",
+    "Publication Year": "1 February 1995",
+    "Authors": [
+      "Anthony C. Davies",
+      "J. H. Yin",
+      "Sergio A. Velastin"
+    ],
+    "Related Topics": null,
+    "Citation Count": "411",
+    "Reference Count": "13",
+    "References": [
+      "5ed559e4943ccf0dae203c49d9125b58ad9d183c",
+      "5b2fb513d1a7ce3d0f09ceb35d801a967b473971",
+      "701ba15fed53eaae5eb65c1460827cd1471f14fd",
+      "a3229dc33ecb80c59a75b906c46b586dd059b781",
+      "",
+      "1fd2d004441f066c3d4d27424ba3c4d6e4bf50f7",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Sparsification-and-Separation-of-Deep-Learning-for-Bhattacharya-Lane/187a78ebfe654e9c1d3e8d070c8845a49c1d1a42",
+    "ID": "187a78ebfe654e9c1d3e8d070c8845a49c1d1a42",
+    "Title": "Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables",
+    "Abstract": null,
+    "Publication Year": "14 November 2016",
+    "Authors": [
+      "Sourav Bhattacharya",
+      "Nicholas D. Lane"
+    ],
+    "Related Topics": null,
+    "Citation Count": "210",
+    "Reference Count": "69",
+    "References": [
+      "c76559037bdafef208da9e3fc38eb68a08cdfa2f",
+      "6c20cd584e7258056840eb88437d69731000bb0f",
+      "9cdd742261c9f07887354622f79ade8226d625c7",
+      "d594839932b3ec17b2f0e30f00d1095937eabf74",
+      "d5b4721c8188269b120d3d06149a04435753e755",
+      "22e477a9fdde86ab1f8f4dafdb4d88ea37e31fbd",
+      "e7bf9803705f2eb608db1e59e5c7636a3f171916",
+      "604e5b979a35b76e86643293b9130e465af3332b",
+      "a4cec122a08216fe8a3bc19b22e78fbaea096256",
+      "021fc345d40d3e6332cd2ef276e2eaa5e71102e4"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Crowd-event-recognition-using-HOG-tracker-G%25C3%25A1rate-Bilinsky/92f07e826f44ed5b4d0fa243c9b7f30a158a841a",
+    "ID": "92f07e826f44ed5b4d0fa243c9b7f30a158a841a",
+    "Title": "Crowd event recognition using HOG tracker",
+    "Abstract": "The recognition in real time of crowd dynamics in public places are becoming essential to avoid crowd related disasters and ensure safety of people. We present in this paper a new approach for Crowd Event Recognition. Our study begins with a novel tracking method, based on HOG descriptors, to finally use pre-defined models (i.e. crowd scenarios) to recognize crowd events. We define these scenarios using statistics analysis from the data sets used in the experimentation. The approach is… ",
+    "Publication Year": "1 December 2009",
+    "Authors": [
+      "Carolina Garate",
+      "P. Bilinsky",
+      "François Bremond"
+    ],
+    "Related Topics": null,
+    "Citation Count": "64",
+    "Reference Count": "18",
+    "References": [
+      "372672c2dcb5f2c7288a969abf448ffc39872d90",
+      "80c3484bcb958d093d6c1ec0076cadb860e7db94",
+      "b4c5e22c0ed8036f7770e61bfaad2ebead532880",
+      "9f0e2ab6deacb7bc6984b2a42a6019c506dc04f8",
+      "008540fd3114ec8f3e55c45c90265061b51046ef",
+      "156f3cf4492fdca8ff0df80167d0dd42e2285c36",
+      "c3113eaad326a955ba96c11b7b65d0c065fb2054",
+      "8984c1adee4e862f64732c3306a7ebda3745d756",
+      "98162573aefbee4926ffb411ef359ac735b12743",
+      "e0b1226910fd8deb67c0b64b37c120e0f0aa967e"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Crowd-Behavior-Recognition-for-Video-Surveillance-Saxena-Br%25C3%25A9mond/7acf5502f9fe06bb455d00820f5dc0f3b097b791",
+    "ID": "7acf5502f9fe06bb455d00820f5dc0f3b097b791",
+    "Title": "Crowd Behavior Recognition for Video Surveillance",
+    "Abstract": null,
+    "Publication Year": "20 October 2008",
+    "Authors": [
+      "Shobhita Saxena",
+      "François Bremond",
+      "Monique Thonnat",
+      "Ruihua Ma"
+    ],
+    "Related Topics": null,
+    "Citation Count": "92",
+    "Reference Count": "21",
+    "References": [
+      "54cf4e85cea0f6f1ec8b3fa318cb2c488a5a7f79",
+      "9f0e2ab6deacb7bc6984b2a42a6019c506dc04f8",
+      "e0b1226910fd8deb67c0b64b37c120e0f0aa967e",
+      "8467bd3b01a8caee0623bc5a053bab21c86b0e60",
+      "36d6a831f32a2a454115dc753517e9dfebdf5e0d",
+      "98162573aefbee4926ffb411ef359ac735b12743",
+      "c115ac8cba0d479f57e317da06c5a694b935a804",
+      "8391319e481d626d55281e838a28d7ea631269f3",
+      "b46da16dca784e66f600cfa05aa3d9d8bc1dee6d",
+      "078c82010493afa9693b1ed53773f1127713989e"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Adversarially-Learned-One-Class-Classifier-for-Sabokrou-Khalooei/8381157eae4fbf8908d0312a9642f8e69e944449",
+    "ID": "8381157eae4fbf8908d0312a9642f8e69e944449",
+    "Title": "Adversarially Learned One-Class Classifier for Novelty Detection",
+    "Abstract": null,
+    "Publication Year": "25 February 2018",
+    "Authors": [
+      "M. Sabokrou",
+      "Mohammad Khalooei",
+      "Mahmood Fathy",
+      "Ehsan Adeli"
+    ],
+    "Related Topics": null,
+    "Citation Count": "503",
+    "Reference Count": "52",
+    "References": [
+      "e399a626ba21fafb19b3661603ec9724058e951b",
+      "571b0750085ae3d939525e62af510ee2cee9d5ea",
+      "54e325aee6b2d476bbbb88615ac15e251c6e8214",
+      "5d666e2761bbac7d8e0ac724280d20fd24d71a6b",
+      "a7fae7dba0db74cc21a7c7b70157fe601784b681",
+      "6f68ce1e03c56c186256dac689a21f6405ae8d96",
+      "8388f1be26329fa45e5807e968a641ce170ea078",
+      "9eb1b16fbd4786eaac91f308d75609b9321868ce",
+      "9d5290fadb7625862a966e0330bd0f9e111fc99d",
+      "8bedee52bf14e326d7fe2b1f1c1d0cb256aa53f6"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Anomaly-Detection-with-Robust-Deep-Autoencoders-Zhou-Paffenroth/2b75ba7f75170b73d913c515cc0deefef6c88f5f",
+    "ID": "2b75ba7f75170b73d913c515cc0deefef6c88f5f",
+    "Title": "Anomaly Detection with Robust Deep Autoencoders",
+    "Abstract": null,
+    "Publication Year": "4 August 2017",
+    "Authors": [
+      "Chong Zhou",
+      "Randy Clinton Paffenroth"
+    ],
+    "Related Topics": null,
+    "Citation Count": "905",
+    "Reference Count": "28",
+    "References": [
+      "357733cc76e31a499a27ba2da8612174aafb3213",
+      "00af02c2cb48920af477115e870a42ac4f8a3834",
+      "fbb38946334941292800a82c99c0dc4feb0cb882",
+      "843959ffdccf31c6694d135fad07425924f785b1",
+      "e2b7f37cd97a7907b1b8a41138721ed06a0b76cd",
+      "ec7e0ceea8f79735742ea671b3c37148cae9f22c",
+      "a2017ec2c60d542af5e9993176ba68f89529dbce",
+      "195d0a8233a7a46329c742eaff56c276f847fadc",
+      "2c5ee8c30bba238fbcb31456b10ebb2cdb8d1a35",
+      "a4cec122a08216fe8a3bc19b22e78fbaea096256"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Fully-Convolutional-Neural-Network-for-Fast-Anomaly-Sabokrou-Fayyaz/8bedee52bf14e326d7fe2b1f1c1d0cb256aa53f6",
+    "ID": "8bedee52bf14e326d7fe2b1f1c1d0cb256aa53f6",
+    "Title": "Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes",
+    "Abstract": null,
+    "Publication Year": "3 September 2016",
+    "Authors": [
+      "M. Sabokrou",
+      "Mohsen Fayyaz",
+      "Mahmood Fathy",
+      "Reinhard Klette"
+    ],
+    "Related Topics": null,
+    "Citation Count": "359",
+    "Reference Count": "65",
+    "References": [
+      "6f68ce1e03c56c186256dac689a21f6405ae8d96",
+      "851ff5f13fbff7023717c3913f2df4a7551a374a",
+      "89b4fb65abb4a81bc492c3b686f5dfc5f175546d",
+      "d7c3c875f2f0c8ff1e8361802eca52c7b1d481c5",
+      "79a694782dad9f5fc2bbc2a21eab735586550ff5",
+      "9d3f0d47449c7db37d1bae3b70db2928610a8db7",
+      "60fef33549f57f5cbb6712a510c3a444ab682429",
+      "a605a375d0803794adee9eac225011d294dfbada",
+      "aae932cf9c2434f52b03991fcab050a61a960d48",
+      "97602b63ea3fa4f43e396f1dda19ed48bf62d646"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/GANomaly%253A-Semi-Supervised-Anomaly-Detection-via-Ak%25C3%25A7ay-Atapour-Abarghouei/0535625be630c6a67f4c244ebf3aa61ad088fc70",
+    "ID": "0535625be630c6a67f4c244ebf3aa61ad088fc70",
+    "Title": "GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training",
+    "Abstract": null,
+    "Publication Year": "17 May 2018",
+    "Authors": [
+      "Samet Akçay",
+      "Amir Atapour-Abarghouei",
+      "T. Breckon"
+    ],
+    "Related Topics": null,
+    "Citation Count": "822",
+    "Reference Count": "52",
+    "References": [
+      "e399a626ba21fafb19b3661603ec9724058e951b",
+      "559a52d27ff8e3ae0cdf1e7948c137ff566285c8",
+      "c8c04ed972d38e2326a53d322a6f2d7e0f8218c1",
+      "571b0750085ae3d939525e62af510ee2cee9d5ea",
+      "fcf43325529c8b1cc26aeb52fd5d7e532abb0a40",
+      "1db6e3078597386ac4222ba6c3f4f61b61f53539",
+      "54e325aee6b2d476bbbb88615ac15e251c6e8214",
+      "7d0effebfa4bed19b6ba41f3af5b7e5b6890de87",
+      "e163a2e89c136cb4442e34c72f7173a0ff46dc79",
+      "b3acb6f183b5f4b651f53c0eec5cb5c805224ac1"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Automatically-detecting-the-small-group-structure-a-Ge-Collins/e298919adf82aed62b2375c96005397797f966e8",
+    "ID": "e298919adf82aed62b2375c96005397797f966e8",
+    "Title": "Automatically detecting the small group structure of a crowd",
+    "Abstract": "Recent work on computer vision analysis of crowds tends to focus on robustly tracking individuals through the crowd or on analyzing the overall pattern of flow. Our work seeks a deeper analysis of social behavior by identifying the small group structure of crowds, forming the basis for mid-level activity analysis at the granularity of human social groups. Building upon state-of-the-art algorithms for pedestrian detection and multi-object tracking, and inspired by social science models of human… ",
+    "Publication Year": "1 December 2009",
+    "Authors": [
+      "Weina Ge",
+      "Robert T. Collins",
+      "Barry Ruback"
+    ],
+    "Related Topics": null,
+    "Citation Count": "101",
+    "Reference Count": "37",
+    "References": [
+      "0d337f1dfebe26131a57420e2d79c9981b112786",
+      "66e126c813069a027c4647c316c1db6df61ce070",
+      "295895e5bd013c33ef0a62b89d41397e3238d8fa",
+      "40e5d6caf6be438bb10ed4f063da7ef9a9eee29a",
+      "18862c162754db15c03999c2df9c54c96153831e",
+      "54cf4e85cea0f6f1ec8b3fa318cb2c488a5a7f79",
+      "c4c5b3995f14fcb85affde0164addbbd4d962914",
+      "e0a11ed0574a005851bbb1c355a91f56de9d413a",
+      "b4356cee0b6e65f6cccb8cc469369a5c2192e392",
+      "e3b3e9df904c8489298ee1a5a00bb0b2efa25e8d"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Uninformed-Students%253A-Student-Teacher-Anomaly-With-Bergmann-Fauser/41747cbdbed84762dfbfc305254c97021279dc6e",
+    "ID": "41747cbdbed84762dfbfc305254c97021279dc6e",
+    "Title": "Uninformed Students: Student-Teacher Anomaly Detection With Discriminative Latent Embeddings",
+    "Abstract": "We introduce a powerful student-teacher framework for the challenging problem of unsupervised anomaly detection and pixel-precise anomaly segmentation in high-resolution images. Student networks are trained to regress the output of a descriptive teacher network that was pretrained on a large dataset of patches from natural images. This circumvents the need for prior data annotation. Anomalies are detected when the outputs of the student networks differ from that of the teacher network. This… ",
+    "Publication Year": "6 November 2019",
+    "Authors": [
+      "Paul Bergmann",
+      "Michael Fauser",
+      "David Sattlegger",
+      "Carsten Steger"
+    ],
+    "Related Topics": null,
+    "Citation Count": "275",
+    "Reference Count": "37",
+    "References": [
+      "3aa681914a7da79f7d7293f51a058eefe61c8bb7",
+      "eb60fe884c53b420edbce57059b242cfcbae0f7c",
+      "2910bec6d4de87e22be5119cef3c488d2ae50e2a",
+      "68e7f5bcb2e2c628b15a96bfa72b612bd992a8e6",
+      "6af440915b8a0718c93be1cf61905e41e620484a",
+      "5f1e7c3c81d6a9e716eab660bb7536ecb204ef7d",
+      "e163a2e89c136cb4442e34c72f7173a0ff46dc79",
+      "f88cfc38dec02dcf050eb1f56d2d59d90b24e04c",
+      "317c172f314f8cb634f7569ed5bf3ae7dd25c313",
+      "67b9c2b376a01d8757dc6d704be450d1c46c4ced"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/MVTec-AD-%25E2%2580%2594-A-Comprehensive-Real-World-Dataset-for-Bergmann-Fauser/3aa681914a7da79f7d7293f51a058eefe61c8bb7",
+    "ID": "3aa681914a7da79f7d7293f51a058eefe61c8bb7",
+    "Title": "MVTec AD — A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection",
+    "Abstract": null,
+    "Publication Year": "1 June 2019",
+    "Authors": [
+      "Paul Bergmann",
+      "Michael Fauser",
+      "David Sattlegger",
+      "Carsten Steger"
+    ],
+    "Related Topics": null,
+    "Citation Count": "508",
+    "Reference Count": "29",
+    "References": [
+      "6af440915b8a0718c93be1cf61905e41e620484a",
+      "eb60fe884c53b420edbce57059b242cfcbae0f7c",
+      "6cf1d69e447e9687dbd2d92572f44bddbabd8192",
+      "67b9c2b376a01d8757dc6d704be450d1c46c4ced",
+      "e163a2e89c136cb4442e34c72f7173a0ff46dc79",
+      "732c21998e251d64cd58b6a86886ee5907efeaa5",
+      "9c24454b071bc8e96ea46c5064a7bddf07cca464",
+      "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+      "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+      "5d90f06bb70a0a3dced62413346235c02b1aa086"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Can-Deep-Learning-Revolutionize-Mobile-Sensing-Lane-Georgiev/6c20cd584e7258056840eb88437d69731000bb0f",
+    "ID": "6c20cd584e7258056840eb88437d69731000bb0f",
+    "Title": "Can Deep Learning Revolutionize Mobile Sensing?",
+    "Abstract": "Sensor-equipped smartphones and wearables are transforming a variety of mobile apps ranging from health monitoring to digital assistants. However, reliably inferring user behavior and context from noisy and complex sensor data collected under mobile device constraints remains an open problem, and a key bottleneck to sensor app development. In recent years, advances in the field of deep learning have resulted in nearly unprecedented gains in related inference tasks such as speech and object… ",
+    "Publication Year": "12 February 2015",
+    "Authors": [
+      "Nicholas D. Lane",
+      "Petko Georgiev"
+    ],
+    "Related Topics": null,
+    "Citation Count": "256",
+    "Reference Count": "28",
+    "References": [
+      "6ea35942b5c5a4fa2e0e72b9cf059052b6995b22",
+      "5cdb93d0edef0483e7e7f41c1bbdbe38543581d0",
+      "64ac4e5bb92a2de48edb56a3be3d63cfb03b6cd2",
+      "8674a529943dec8eefd539517b73a513a5dc5a54",
+      "104974b6c48147a96739ff8a63e14befe8115020",
+      "5ed68f0d6d477c96201cb06d95b61689fa739956",
+      "6ca8fa3ba89ed69128c7f6f03e07f3aa42446596",
+      "80f6139c1de8fbf819afa29764a6c39a208fcf41",
+      "376dfa43778847987e2e3ac17e4df12418091956",
+      "72e93aa6767ee683de7f001fa72f1314e40a8f35"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/A-Privacy-Preserving-Deep-Learning-Approach-for-Mao-Feng/60951974d24dd83e288117b0cd217af6a5d34178",
+    "ID": "60951974d24dd83e288117b0cd217af6a5d34178",
+    "Title": "A Privacy-Preserving Deep Learning Approach for Face Recognition with Edge Computing",
+    "Abstract": "Deep convolutional neural networks (DNNs) have brought significant performance improvements to face recognition. However the training can hardly be carried out on mobile devices because the training of these models requires much computational power. An individual user with the demand of deriving DNN models from her own datasets usually has to outsource the training procedure onto a cloud or edge server. However this outsourcing method violates privacy because it exposes the users’ data to… ",
+    "Publication Year": "2018",
+    "Authors": [
+      "Yunlong Mao",
+      "Jinghao Feng",
+      "Fengyuan Xu",
+      "Sheng Zhong"
+    ],
+    "Related Topics": null,
+    "Citation Count": "47",
+    "Reference Count": "16",
+    "References": [
+      "326bb49d3ae9e1e1551028200916192e50004105",
+      "44a97f4eaaefaf5338f8aed2913d5debb2459f7e",
+      "6f0685d61328f0f90972fe822258d574b74e9c7a",
+      "82e66c4832386cafcec16b92ac88088ffd1a1bc9",
+      "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+      "db0cc2f21b20cbc0ab8946090967399c25709614",
+      "d1b9a3b11e6c9571a1553556f82b605b2b4baec3",
+      "162ea969d1929ed180cc6de9f0bf116993ff6e06",
+      "35f4dbc11805ad58a730d23d9032aa7ec1c679ce",
+      "f0dcc9aa31dc9b31b836bcac1b140c8c94a2982d"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Replacement-AutoEncoder%253A-A-Privacy-Preserving-for-Malekzadeh-Clegg/65c8a794830f9a11aa0b9ab682f3b6256be67185",
+    "ID": "65c8a794830f9a11aa0b9ab682f3b6256be67185",
+    "Title": "Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis",
+    "Abstract": null,
+    "Publication Year": "18 October 2017",
+    "Authors": [
+      "M. Malekzadeh",
+      "Richard G. Clegg",
+      "Hamed Haddadi"
+    ],
+    "Related Topics": null,
+    "Citation Count": "63",
+    "Reference Count": "44",
+    "References": [
+      "6f0685d61328f0f90972fe822258d574b74e9c7a",
+      "36051962fdcfa536c3cc1cd27b17649d84a8cf09",
+      "818e1e81b9bf13f4803934b15f4f6b3cb9251658",
+      "7dee8c690e23585f0beffa3c81933f8691b06a73",
+      "017d615afa48eea38ae741d0071c4781dc0d1024",
+      "6065090377b440bbf5dc02ede58aeaa7d7811f5c",
+      "ffc77622fca7aa46de7ef7ded3031e31c3bacce4",
+      "b3de61ce1665d7f8b5ddc344289b7a4e18f015f6",
+      "08c71fe89af5f168b373e92b44a7cf9d1755fb8c",
+      "2009b05a29eb78f915f1a1f6178151dc6c93871c"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Deep-Semi-Supervised-Anomaly-Detection-Ruff-Vandermeulen/4c1abd8969fc1c360f50373f6552bcfb3cc408b7",
+    "ID": "4c1abd8969fc1c360f50373f6552bcfb3cc408b7",
+    "Title": "Deep Semi-Supervised Anomaly Detection",
+    "Abstract": "Deep approaches to anomaly detection have recently shown promising results over shallow methods on large and complex datasets. Typically anomaly detection is treated as an unsupervised learning problem. In practice however, one may have---in addition to a large set of unlabeled samples---access to a small pool of labeled samples, e.g. a subset verified by some domain expert as being normal or anomalous. Semi-supervised approaches to anomaly detection aim to utilize such labeled samples, but… ",
+    "Publication Year": "6 June 2019",
+    "Authors": [
+      "Lukas Ruff",
+      "Robert A. Vandermeulen",
+      "Nico Gornitz",
+      "Alexander Binder",
+      "Emmanuel Muller",
+      "Klaus-Robert Muller",
+      "M. Kloft"
+    ],
+    "Related Topics": null,
+    "Citation Count": "295",
+    "Reference Count": "87",
+    "References": [
+      "f5a951b9596be0df5ad7ede180b405c9e97a65c9",
+      "f24dc0f3c1cc1da6c4fd12e1a65f55a6d82bb8ed",
+      "6cf1d69e447e9687dbd2d92572f44bddbabd8192",
+      "ca4edb65a0664804e4819c5c809d0dfba9bdb2df",
+      "a2e667e4382aaa8e02a17d0522c1a910790ab65b",
+      "f076e4355c0facf111716dcab2837803367dd2d8",
+      "6af440915b8a0718c93be1cf61905e41e620484a",
+      "67b9c2b376a01d8757dc6d704be450d1c46c4ced",
+      "5db790198b9acf4e5efe350acdd814238fcacaa7",
+      "0535625be630c6a67f4c244ebf3aa61ad088fc70"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Detection-of-Emergency-Events-in-Crowded-Scenes-Andrade-Fisher/52f63f6d444c1d192e02a7b407aad1ebe908c388",
+    "ID": "52f63f6d444c1d192e02a7b407aad1ebe908c388",
+    "Title": "Detection of Emergency Events in Crowded Scenes",
+    "Abstract": "This paper evaluates a technique for detection of abnormal events in crowds. We characterise crowd behaviour by observing the crowd optical flow and use unsupervised feature extraction to encode normal crowd behaviour. The unsupervised feature extraction applies spectral clustering to find the optimal number of models to represent normal motion patterns. The motion models are HMMs to cope with the variable number of motion samples that might be present in each observation window. The results on… ",
+    "Publication Year": "13 June 2006",
+    "Authors": [
+      "Ernesto L. Andrade",
+      "Robert B. Fisher",
+      "Scott Blunsden"
+    ],
+    "Related Topics": null,
+    "Citation Count": "41",
+    "Reference Count": "17",
+    "References": [
+      "788e2d1e64d42f2d70aea6b9c1f570284906f2d1",
+      "566a18813931b0cb001f2ef4d3ebc1ff4627a78f",
+      "7aa57dd6163eeef5a4a6d3b15d8443ab12906b3e",
+      "461efc87636ff4e48323ffcb9f8fdf79cf736fb0",
+      "417eba8614feacc77212bf46552a0af153a968b2",
+      "1037b49ca82ad5e4398f3bdf970e93cdf8c7ee81",
+      "c487dc5744812edb1f5e9b7a05aab62b3da71f6f",
+      "1bfe26fac93ad96c81cf1a580b9e7744477f56aa",
+      "cde1fd3f2914f11316932032657c4c9cb5da6ed7",
+      "1ed6a05307cd500669339aad372f548422284350"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Crowd-event-detection-in-computer-vision-Husni-Suryana/daa84f3160e0a71d9820f9961382ffbc5b811dbd",
+    "ID": "daa84f3160e0a71d9820f9961382ffbc5b811dbd",
+    "Title": "Crowd event detection in computer vision",
+    "Abstract": "One of video surveillance applications is crowd analysis. Video surveillance application uses crowd analysis for automatic detection of anomalies and alarms. Behavior of the crowd attracts many researchers interest because of its complexity and abstract. Several obstacles, such as, occlusion, illumination changes, and any other obstacles that could influence detecting process, also there are some difficulties in analyzing crowd event. This paper is intended to analyze crowd behavior through… ",
+    "Publication Year": "5 July 2010",
+    "Authors": [
+      "Muhammad Husni",
+      "Nanna Suryana"
+    ],
+    "Related Topics": null,
+    "Citation Count": "13",
+    "Reference Count": "21",
+    "References": [
+      "92f07e826f44ed5b4d0fa243c9b7f30a158a841a",
+      "461efc87636ff4e48323ffcb9f8fdf79cf736fb0",
+      "cbae4e5a2fce9f9a62b31aaec40d39bc74b35595",
+      "2f655876cacdb3121a72fa0a61e0611fd5745b02",
+      "04af711e0f914273be91ec6253d6b5c2d8feb019",
+      "4bf1489a4e8bae19c09b4ccd232e8d43fcf08633",
+      "33aaa25346ba6796a0055a42cfa1932053878ba3",
+      "c3113eaad326a955ba96c11b7b65d0c065fb2054",
+      "2cfa006b33084abe8160b001f9a24944cda25d05",
+      "d44d0acccb25fb0a3cb86bdba066039145df1a36"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Modelling-Crowd-Scenes-for-Event-Detection-Andrade-Blunsden/54cf4e85cea0f6f1ec8b3fa318cb2c488a5a7f79",
+    "ID": "54cf4e85cea0f6f1ec8b3fa318cb2c488a5a7f79",
+    "Title": "Modelling Crowd Scenes for Event Detection",
+    "Abstract": "This work presents an automatic technique for detection of abnormal events in crowds. Crowd behaviour is difficult to predict and might not be easily semantically translated. Moreover it is difficulty to track individuals in the crowd using state of the art tracking algorithms. Therefore we characterise crowd behaviour by observing the crowd optical flow and use unsupervised feature extraction to encode normal crowd behaviour. The unsupervised feature extraction applies spectral clustering to… ",
+    "Publication Year": "20 August 2006",
+    "Authors": [
+      "Ernesto L. Andrade",
+      "Scott Blunsden",
+      "Robert B. Fisher"
+    ],
+    "Related Topics": null,
+    "Citation Count": "307",
+    "Reference Count": "16",
+    "References": [
+      "566a18813931b0cb001f2ef4d3ebc1ff4627a78f",
+      "7aa57dd6163eeef5a4a6d3b15d8443ab12906b3e",
+      "417eba8614feacc77212bf46552a0af153a968b2",
+      "1037b49ca82ad5e4398f3bdf970e93cdf8c7ee81",
+      "c487dc5744812edb1f5e9b7a05aab62b3da71f6f",
+      "461efc87636ff4e48323ffcb9f8fdf79cf736fb0",
+      "1bfe26fac93ad96c81cf1a580b9e7744477f56aa",
+      "cde1fd3f2914f11316932032657c4c9cb5da6ed7",
+      "1ed6a05307cd500669339aad372f548422284350",
+      "8290748ad38447d6fafdf22f4e4c19b88df717fc"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Deep-Anomaly-Detection-Using-Geometric-Golan-El-Yaniv/5db790198b9acf4e5efe350acdd814238fcacaa7",
+    "ID": "5db790198b9acf4e5efe350acdd814238fcacaa7",
+    "Title": "Deep Anomaly Detection Using Geometric Transformations",
+    "Abstract": null,
+    "Publication Year": "1 May 2018",
+    "Authors": [
+      "Izhak Golan",
+      "Ran El-Yaniv"
+    ],
+    "Related Topics": null,
+    "Citation Count": "443",
+    "Reference Count": "46",
+    "References": [
+      "3447d8b47a8cf7ce9f04ede314f0ded8172fa470",
+      "6af440915b8a0718c93be1cf61905e41e620484a",
+      "547c854985629cfa9404a5ba8ca29367b5f8c25f",
+      "c72e91b2e5c103f529510fa15a156d61c5633da1",
+      "10a498003e9204f5fc1328e706510a37e514d8c7",
+      "e163a2e89c136cb4442e34c72f7173a0ff46dc79",
+      "dbc7401e3e75c40d3c720e7db3c906d48bd742d7",
+      "061146b1d7938d7a8dae70e3531a00fceb3c78e8",
+      "71d1ac92ad36b62a04f32ed75a10ad3259a7218d",
+      "54e325aee6b2d476bbbb88615ac15e251c6e8214"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Privacy-preserving-deep-learning-Shokri-Shmatikov/326bb49d3ae9e1e1551028200916192e50004105",
+    "ID": "326bb49d3ae9e1e1551028200916192e50004105",
+    "Title": "Privacy-preserving deep learning",
+    "Abstract": null,
+    "Publication Year": "1 September 2015",
+    "Authors": [
+      "R. Shokri",
+      "Vitaly Shmatikov"
+    ],
+    "Related Topics": null,
+    "Citation Count": "1,700",
+    "Reference Count": "60",
+    "References": [
+      "6f2632d3569223056c040899b5891980288539d8",
+      "763afb9dc8650101be06053e2eb612d9e3a1ce18",
+      "006cb500fd0b25200e12eb5a024756aea3d569ed",
+      "b57c54350769ffa59ff57f79ee5aad918844d298",
+      "c1d36203276052765afbc8d9cd822ba5d0384627",
+      "a188d2ac0d10bdd4d4a04c92cdc76523e11c155c",
+      "34f25a8704614163c4095b3ee2fc969b60de4698",
+      "8fe09c5c88c3dd0700051c48fd917ac480436a4c",
+      "19c40cc8456950acc93553591f4a79b138bbeaf0",
+      "f8558a09553fc35415b271019be9f7d44354073e"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Deep-Learning-in-Mobile-and-Wireless-Networking%253A-A-Zhang-Patras/8a5d0579590465494c9aba58a857af43b190b6a6",
+    "ID": "8a5d0579590465494c9aba58a857af43b190b6a6",
+    "Title": "Deep Learning in Mobile and Wireless Networking: A Survey",
+    "Abstract": null,
+    "Publication Year": "12 March 2018",
+    "Authors": [
+      "Chaoyun Zhang",
+      "Paul Patras",
+      "Hamed Haddadi"
+    ],
+    "Related Topics": null,
+    "Citation Count": "987",
+    "Reference Count": "588",
+    "References": [
+      "992983bd9faa6846f143a9080a41ccbb442553e9",
+      "74c81fc3e50a9cfa4ee23fbe25a9eacd735bb040",
+      "7e739a65f5d5e8fa724322a832ef1de2aa614996",
+      "d246989d6839a91f38b7fa97d1ee67545d636db6",
+      "7c4af74191488ecfc5f7963f8d6af483c1ba548b",
+      "d53533b4f24504ecb04612a0d08c46db966caa2f",
+      "30e28b272f7ad1ca82a2d68d4f0fdd575d6e31b2",
+      "959497916e2aef85172c5664a0496f3a12622384",
+      "d7896d6be118386a1f76f389210ca4e3a87b0d4a",
+      "d4de528645fdfc6d954364a8e6eeeed9480ccfa2"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Learning-realistic-human-actions-from-movies-Laptev-Marszalek/0f86767732f76f478d5845f2e59f99ba106e9265",
+    "ID": "0f86767732f76f478d5845f2e59f99ba106e9265",
+    "Title": "Learning realistic human actions from movies",
+    "Abstract": null,
+    "Publication Year": "23 June 2008",
+    "Authors": [
+      "Ivan Laptev",
+      "Marcin Marszalek",
+      "Cordelia Schmid",
+      "Benjamin Rozenfeld"
+    ],
+    "Related Topics": null,
+    "Citation Count": "3,750",
+    "Reference Count": "32",
+    "References": [
+      "c6cd1a1c1e6bde8e06120c431d4e816e4d67f249",
+      "0eefe92e151cca891de7dcc1ad9b70b8ef42b086",
+      "b786e478cf0be6fcfaeb7812e25da85523236855",
+      "ab1632b7277eea8d65b8d5b2e0ac07bfd63dff87",
+      "2b7e019719972384ed99501cf50b8eac5e51a925",
+      "d4ed0b69a2e9a3d75ac13c4ff43044fea9b5df6e",
+      "c8d905b121e3e1f27d1f72195e27b7c8ac1a4386",
+      "124d967683544973581f951ee93b3f7c069e3ced",
+      "10c8691e23dffadab19c39fb9245496efbf75b2a",
+      "804db97075c4e371177e5bfffe8012de237ae44d"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/ZOE%253A-A-Cloud-less-Dialog-enabled-Continuous-Sensing-Lane-Georgiev/5a7a7dfea3674d4e0474f7fdd596951da44babe4",
+    "ID": "5a7a7dfea3674d4e0474f7fdd596951da44babe4",
+    "Title": "ZOE: A Cloud-less Dialog-enabled Continuous Sensing Wearable Exploiting Heterogeneous Computation",
+    "Abstract": "The wearable revolution, as a mass-market phenomenon, has finally arrived. As a result, the question of how wearables should evolve over the next 5 to 10 years is assuming an increasing level of societal and commercial importance. A range of open design and system questions are emerging, for instance: How can wearables shift from being largely health and fitness focused to tracking a wider range of life events? What will become the dominant methods through which users interact with wearables… ",
+    "Publication Year": "18 May 2015",
+    "Authors": [
+      "Nicholas D. Lane",
+      "Petko Georgiev",
+      "Cecilia Mascolo",
+      "Ying Gao"
+    ],
+    "Related Topics": null,
+    "Citation Count": "24",
+    "Reference Count": "64",
+    "References": [
+      "856c1fc2bae151215ce3dacf06c4a003b5a129b1",
+      "eadfeaf5e0a3947029a0a373aa1f923ad83454fe",
+      "19704fa35fdc2eae04cd45158df706e59dd3693d",
+      "158dad9eaa0461e6e5d404ea91de7a547640cb7d",
+      "64ac4e5bb92a2de48edb56a3be3d63cfb03b6cd2",
+      "647134685bf254f07cf1a87eeb5d3344c19e37c8",
+      "6ea35942b5c5a4fa2e0e72b9cf059052b6995b22",
+      "d29e208f57c96cac901cde1955e4e62a96b4da81",
+      "672f12e4ee015308a240f32d6766fccfabd75bfc",
+      "f3b18830659ad634016682d7d498d020f04a9449"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Violent-flows%253A-Real-time-detection-of-violent-crowd-Hassner-Itcher/5194cbd51f9769ab25260446b4fa17204752e799",
+    "ID": "5194cbd51f9769ab25260446b4fa17204752e799",
+    "Title": "Violent flows: Real-time detection of violent crowd behavior",
+    "Abstract": "Although surveillance video cameras are now widely used, their effectiveness is questionable. Here, we focus on the challenging task of monitoring crowded events for outbreaks of violence. Such scenes require a human surveyor to monitor multiple video screens, presenting crowds of people in a constantly changing sea of activity, and to identify signs of breaking violence early enough to alert help. With this in mind, we propose the following contributions: (1) We describe a novel approach to… ",
+    "Publication Year": "16 June 2012",
+    "Authors": [
+      "Tal Hassner",
+      "Yossi Itcher",
+      "Orit Kliper-Gross"
+    ],
+    "Related Topics": null,
+    "Citation Count": "390",
+    "Reference Count": "33",
+    "References": [
+      "53964e0ccc0412e2fbb2cdf3483e1f383208febe",
+      "25d7a9cc63fe4a6578fadd369277d45c46dfb781",
+      "cac8e12c0b45dcb27e207c70bc83a0f92d5d2017",
+      "0f86767732f76f478d5845f2e59f99ba106e9265",
+      "2110c7f72e7153f73199dd217f87bc6d79d87fb2",
+      "aca29d7bbbf54078f842c8ca1d75d8d8c68191d2",
+      "84723996c3536088b0d3b4a99a9bdbfea6767b27",
+      "1e5e70f77a9957bc6fdfa9748dc4739657933dc4",
+      "86078efdd0d1bbfaf4b7f821e973f607429751fc",
+      "e332ae93ff5348a3e95a7b41a80c5ed80f18ccd3"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Iterative-energy-based-projection-on-a-normal-data-Dehaene-Frigo/d9d7ab13ce305ccee309c989a2341d72b1252070",
+    "ID": "d9d7ab13ce305ccee309c989a2341d72b1252070",
+    "Title": "Iterative energy-based projection on a normal data manifold for anomaly localization",
+    "Abstract": "Autoencoder reconstructions are widely used for the task of unsupervised anomaly localization. Indeed, an autoencoder trained on normal data is expected to only be able to reconstruct normal features of the data, allowing the segmentation of anomalous pixels in an image via a simple comparison between the image and its autoencoder reconstruction. In practice however, local defects added to a normal image can deteriorate the whole reconstruction, making this segmentation challenging. To tackle… ",
+    "Publication Year": "10 February 2020",
+    "Authors": [
+      "David Dehaene",
+      "Oriel Frigo",
+      "Sebastien Combrexelle",
+      "Pierre Eline"
+    ],
+    "Related Topics": null,
+    "Citation Count": "84",
+    "Reference Count": "26",
+    "References": [
+      "06fad023ef0274e7d6727ecbd1ef46887a6806df",
+      "eb60fe884c53b420edbce57059b242cfcbae0f7c",
+      "3aa681914a7da79f7d7293f51a058eefe61c8bb7",
+      "fde52ab74c420dcbc0172a979eeeb4c9d36f4e4d",
+      "9c24454b071bc8e96ea46c5064a7bddf07cca464",
+      "061146b1d7938d7a8dae70e3531a00fceb3c78e8",
+      "f88cfc38dec02dcf050eb1f56d2d59d90b24e04c",
+      "7d0effebfa4bed19b6ba41f3af5b7e5b6890de87",
+      "e163a2e89c136cb4442e34c72f7173a0ff46dc79",
+      "ca42e4d7021d4e563bbeae7db35c1ce09fe38bfa"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/SecureML%253A-A-System-for-Scalable-Privacy-Preserving-Mohassel-Zhang/2b7f9117eb6608a58be4c078ca3d69c0e5ccb875",
+    "ID": "2b7f9117eb6608a58be4c078ca3d69c0e5ccb875",
+    "Title": "SecureML: A System for Scalable Privacy-Preserving Machine Learning",
+    "Abstract": null,
+    "Publication Year": "22 May 2017",
+    "Authors": [
+      "Payman Mohassel",
+      "Yupeng Zhang"
+    ],
+    "Related Topics": null,
+    "Citation Count": "1,229",
+    "Reference Count": "40",
+    "References": [
+      "326bb49d3ae9e1e1551028200916192e50004105",
+      "a188d2ac0d10bdd4d4a04c92cdc76523e11c155c",
+      "4d039a6c87aef47dbd4497694b7921f81ab398e0",
+      "1f996f3ed94538d5cea66c1cb6ef3adfed9cdd24",
+      "d24c81f1e2904ba6ec3f341161865ef93247855b",
+      "a09dcece804c6cd11fd3f0025dda7d327121ae67",
+      "0eefa33a1ad9118ba91a2e4a88e555b453a952f1",
+      "9a1d75a5c79e603ab7ceecc4bb07ee736e402c18",
+      "c82910284f31c4f13ce58a31ecef0e4c32d2396a",
+      "e9a986c8ff6c2f381d026fe014f6aaa865f34da7"
+    ]
+  }
+]

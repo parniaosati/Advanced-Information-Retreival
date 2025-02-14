@@ -1,0 +1,5 @@
+https://www.semanticscholar.org/paper/Spatial-Aware-Dictionary-Learning-for-Hyperspectral-Soltani-Farani-Rabiee/5ca94050fcf3382b50ec44629c0dda80c8843558
+https://www.semanticscholar.org/paper/Multiresolution-Knowledge-Distillation-for-Anomaly-Salehi-Sadjadi/6885c45614f78f9d2e7cc8ef11b3c38b34e67f7d
+https://www.semanticscholar.org/paper/A-Hybrid-Deep-Learning-Architecture-for-Mobile-Osia-Shamsabadi/6f0685d61328f0f90972fe822258d574b74e9c7a
+https://www.semanticscholar.org/paper/Novel-dataset-for-fine-grained-abnormal-behavior-in-Rabiee-Haddadnia/c626a9d75dfd73e26cf30793d5ef71527cd9fa95
+https://www.semanticscholar.org/paper/Deep-Private-Feature-Extraction-Ossia-Taheri/e1dcd7fd049ae2ae3b93295d8ea360cafc00f9da
